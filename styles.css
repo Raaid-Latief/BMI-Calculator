@@ -2,31 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: black;
+    
+
     
   }
 
 
-  #bmi{
-    background-color: white;
-  }
-
-
-  #weight{
-    color: aqua;
-
-  }
-
-#height{
-    color: aqua;
-}  
-
-#BMI{
-    color: aqua;
+.container{
+   
 }
 
-#calculate{
-    background-color: red;
-    
-
-}
